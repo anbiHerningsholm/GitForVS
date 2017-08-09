@@ -11,7 +11,12 @@ namespace caGitTest
         static void Main(string[] args)
         {
             //This is the first line i my project
-            //This is the second line
+            
+            //Second change deleted and third added
+            //and more
+            //and more
+
+
         }
     }
 }
