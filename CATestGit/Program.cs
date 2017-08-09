@@ -12,6 +12,7 @@ namespace CATestGit
         {
             //Changes on the Main branch
             //more changes
+            //changes to release 1.2
         }
     }
 }

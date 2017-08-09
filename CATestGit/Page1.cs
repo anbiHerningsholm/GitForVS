@@ -15,6 +15,7 @@ namespace CATestGit
             {
                 Children = {
                     new Label { Text = "Welcome to Xamarin Forms!" }
+                    //Changes to release 1.2
                 }
             };
         }
